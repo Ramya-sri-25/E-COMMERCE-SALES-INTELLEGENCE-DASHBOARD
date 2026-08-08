@@ -153,7 +153,9 @@ The dashboard enables management to:
 
 # Dashboard Preview
 
+## Dashboard Preview
 
+![Executive Dashboard](Screenshots/ecommerce_Dashboard.png)
 
 ---
 
