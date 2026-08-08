@@ -155,7 +155,7 @@ The dashboard enables management to:
 
 ## Dashboard Preview
 
-![Executive Dashboard](Screenshots/ecommerce_Dashboard.png)
+![Executive Dashboard](Screenshots/ecommerce_Dashbord.png)
 
 ---
 
