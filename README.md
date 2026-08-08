@@ -157,7 +157,9 @@ The dashboard enables management to:
 
 ## Dashboard Preview
 
-![E-commerce Dashboard](Screenshots/ecommerce%20dashboard%20png.png)
+## 📊 Dashboard Preview
+
+[![E-commerce Dashboard](screenshots/ecommerce%20dashboard%20png.png)](screenshots/ecommerce%20dashboard%20png.png)
 
 ---
 
